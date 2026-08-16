@@ -1,0 +1,10 @@
+{
+  "description": "Monitors air quality using various plug-in sensors and displays real-time weather data, helping users track environmental conditions via local WiFi login.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
